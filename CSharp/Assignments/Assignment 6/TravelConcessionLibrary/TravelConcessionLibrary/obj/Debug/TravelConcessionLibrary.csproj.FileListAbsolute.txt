@@ -1,0 +1,6 @@
+C:\Users\nikhilva\source\repos\TravelConcessionLibrary\TravelConcessionLibrary\bin\Debug\TravelConcessionLibrary.dll
+C:\Users\nikhilva\source\repos\TravelConcessionLibrary\TravelConcessionLibrary\bin\Debug\TravelConcessionLibrary.pdb
+C:\Users\nikhilva\source\repos\TravelConcessionLibrary\TravelConcessionLibrary\obj\Debug\TravelConcessionLibrary.csproj.AssemblyReference.cache
+C:\Users\nikhilva\source\repos\TravelConcessionLibrary\TravelConcessionLibrary\obj\Debug\TravelConcessionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nikhilva\source\repos\TravelConcessionLibrary\TravelConcessionLibrary\obj\Debug\TravelConcessionLibrary.dll
+C:\Users\nikhilva\source\repos\TravelConcessionLibrary\TravelConcessionLibrary\obj\Debug\TravelConcessionLibrary.pdb
