@@ -38,6 +38,8 @@ PRINT 'Net Salary: ' +CAST(@NetSalary AS VARCHAR(20))
 
 END
 
+EXEC GeneratePaySlip @EmployeeID = 1
+
 
 --2.
 CREATE TABLE Holidays(
@@ -71,4 +73,7 @@ RAISERROR('Due to %s, you cannot manipulate data today!',0,1,@HolidayName)
 ROLLBACK TRANSACTION
 END
 END
+
+INSERT INTO EMP VALUES
+(7999,'NIKHIL',4500,10)
 
