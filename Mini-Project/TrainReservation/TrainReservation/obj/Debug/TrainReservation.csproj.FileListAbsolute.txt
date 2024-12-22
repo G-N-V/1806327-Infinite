@@ -1,0 +1,7 @@
+C:\InfiniteTraining\DotNET-Training-Personal\TrainReservation\TrainReservation\bin\Debug\TrainReservation.exe.config
+C:\InfiniteTraining\DotNET-Training-Personal\TrainReservation\TrainReservation\bin\Debug\TrainReservation.exe
+C:\InfiniteTraining\DotNET-Training-Personal\TrainReservation\TrainReservation\bin\Debug\TrainReservation.pdb
+C:\InfiniteTraining\DotNET-Training-Personal\TrainReservation\TrainReservation\obj\Debug\TrainReservation.csproj.AssemblyReference.cache
+C:\InfiniteTraining\DotNET-Training-Personal\TrainReservation\TrainReservation\obj\Debug\TrainReservation.csproj.CoreCompileInputs.cache
+C:\InfiniteTraining\DotNET-Training-Personal\TrainReservation\TrainReservation\obj\Debug\TrainReservation.exe
+C:\InfiniteTraining\DotNET-Training-Personal\TrainReservation\TrainReservation\obj\Debug\TrainReservation.pdb
