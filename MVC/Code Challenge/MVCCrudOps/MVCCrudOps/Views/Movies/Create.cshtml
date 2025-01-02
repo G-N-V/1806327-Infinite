@@ -1,0 +1,22 @@
+﻿@model MVCCrudOps.Models.Movie
+@{ 
+    ViewBag.Title = "Create Movie"; 
+}
+<h2>Create Movie</h2>
+@using (Html.BeginForm())
+ {
+    <div>
+        <label>Movie Name</label>
+        @Html.EditorFor(model=>model.Moviename)
+    </div>
+
+    <div>
+        <label>Date of Release</label>
+        @Html.EditorFor(model => model.DateofRelease)
+    </div>
+
+    <input type="submit" value="Create" />
+
+ }
+
+

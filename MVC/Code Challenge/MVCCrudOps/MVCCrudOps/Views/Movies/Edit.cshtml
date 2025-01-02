@@ -1,0 +1,21 @@
+﻿@model IEnumerable<MVCCrudOps.Models.Movie>
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit Movie</h2>
+@using (Html.BeginForm())
+{
+    <div>
+        <label>Movie Name</label>
+        @Html.EditorFor(model => model.Moviename)
+    </div>
+
+    <div>
+        <label>Date of Release</label>
+        @Html.EditorFor(model => model.DateofRelease)
+    </div>
+
+    <input type="submit" value="Save" />
+}
+

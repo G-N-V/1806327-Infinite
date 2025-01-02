@@ -1,0 +1,20 @@
+﻿@model IEnumerable<MVCTest.Models.Customer>
+<h2>Customers in Germany</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>CustomerID</th>
+            <th>CompanyName</th>
+            <th>ContactName</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var customer in Model)
+        {
+<tr>
+    <td>@customer.CustomerID</td>
+    <td>@customer.CompanyName</td>
+    <td>@customer.ContactName</td>
+</tr>}
+    </tbody>
+</table>
